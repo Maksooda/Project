@@ -4,7 +4,6 @@ import * as Location from "expo-location";
 import * as LocationGeocoding from "expo-location";
 import { Octicons, Ionicons } from '@expo/vector-icons';
 import { AntDesign } from '@expo/vector-icons';
-// import Carousel from '../../components/Carousel';
 import Categories from '../../components/Categories';
 import Hotel from '../../components/Hotel';
 import { supabase } from '../../supabase';
